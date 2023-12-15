@@ -1,0 +1,26 @@
+.signupbtn {
+    padding-right: 20px;
+}
+
+.logoutbtn {
+    padding-left: 20px;
+}
+
+.navtext {
+    font-weight:500;
+    font-style: italic;
+    color:blanchedalmond;
+    font-size: 20px;
+}
+
+.proftext {
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.brand {
+    font-weight:600;
+    font-style: italic;
+    color:antiquewhite;
+    font-size: 30px;
+}

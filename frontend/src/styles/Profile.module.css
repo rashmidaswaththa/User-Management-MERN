@@ -1,0 +1,28 @@
+.profileCol {
+    position: relative;
+}
+
+.profileFigure {
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate( -50%);
+    transform: translate( -50%);
+}
+
+.usernameLabel {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.username{
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    color: black;
+}
+
+.paragraph {
+    padding-top: 10px;
+    
+}
