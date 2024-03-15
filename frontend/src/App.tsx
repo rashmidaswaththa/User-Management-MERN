@@ -53,14 +53,14 @@ function App() {
 							path='/about'
 							element={<AboutPage />}
 						/>
-						{/* <Route
-							path='/*'
-							element={<NotFoundPage />}
-						/> */}
 						<Route
-							path='/'
+							path='/*'
 							element={<Home />}
 						/>
+						{/* <Route
+							path='/'
+							element={<Home />}
+						/> */}
 					</Routes>
 				</Container>
 				{showSignUpModal &&
