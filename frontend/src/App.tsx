@@ -53,10 +53,10 @@ function App() {
 							path='/about'
 							element={<AboutPage />}
 						/>
-						<Route
+						{/* <Route
 							path='/*'
 							element={<NotFoundPage />}
-						/>
+						/> */}
 						<Route
 							path='/'
 							element={<Home />}
